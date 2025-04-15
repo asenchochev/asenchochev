@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on my personal [Portfolio](https://github.com/asenchochev/portfolio)
 - 🌱 Constantly learning and improving my skills in React, Angular & modern JavaScript frameworks
-- 👨‍💻 All my projects are available at: [github.com/asenchochev](https://github.com/asenchochev)
+- 👨‍💻 All my projects are available at: [github.com/asenchochev]([https://github.com/asenchochev](https://github.com/asenchochev?tab=repositories))
 - ⚡ Fun fact: I love building beautiful UIs and optimizing performance!
 
 ---
