@@ -9,7 +9,7 @@
 
 ---
 
-- 🔭 I’m currently working on my personal [Ecommerce App](https://github.com/asenchochev/ecommerce-app-mern)
+- 🔭 I’m currently working on my personal [Social Media App](https://github.com/asenchochev/social-media)
 - 🌱 Constantly learning and improving my skills in React, Angular & modern JavaScript frameworks
 - 👨‍💻 All my projects are available at: [github.com/asenchochev]([https://github.com/asenchochev](https://github.com/asenchochev?tab=repositories))
 - ⚡ Fun fact: I love building beautiful UIs and optimizing performance!
